@@ -676,3 +676,51 @@
 #11 /home/karem/game-turns/artisan(16): Illuminate\\Foundation\\Application->handleCommand()
 #12 {main}
 "} 
+[2025-10-15 16:20:39] local.ERROR: The "--columns" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"--columns\" option does not exist. at /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php:226)
+[stacktrace]
+#0 /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php(153): Symfony\\Component\\Console\\Input\\ArgvInput->addLongOption()
+#1 /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php(88): Symfony\\Component\\Console\\Input\\ArgvInput->parseLongOption()
+#2 /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php(77): Symfony\\Component\\Console\\Input\\ArgvInput->parseToken()
+#3 /home/karem/game-turns/vendor/symfony/console/Input/Input.php(53): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#4 /home/karem/game-turns/vendor/symfony/console/Command/Command.php(276): Symfony\\Component\\Console\\Input\\Input->bind()
+#5 /home/karem/game-turns/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony\\Component\\Console\\Command\\Command->run()
+#6 /home/karem/game-turns/vendor/symfony/console/Application.php(1110): Illuminate\\Console\\Command->run()
+#7 /home/karem/game-turns/vendor/symfony/console/Application.php(359): Symfony\\Component\\Console\\Application->doRunCommand()
+#8 /home/karem/game-turns/vendor/symfony/console/Application.php(194): Symfony\\Component\\Console\\Application->doRun()
+#9 /home/karem/game-turns/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(197): Symfony\\Component\\Console\\Application->run()
+#10 /home/karem/game-turns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle()
+#11 /home/karem/game-turns/artisan(16): Illuminate\\Foundation\\Application->handleCommand()
+#12 {main}
+"} 
+[2025-10-15 16:20:42] local.ERROR: The "--columns" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"--columns\" option does not exist. at /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php:226)
+[stacktrace]
+#0 /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php(153): Symfony\\Component\\Console\\Input\\ArgvInput->addLongOption()
+#1 /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php(88): Symfony\\Component\\Console\\Input\\ArgvInput->parseLongOption()
+#2 /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php(77): Symfony\\Component\\Console\\Input\\ArgvInput->parseToken()
+#3 /home/karem/game-turns/vendor/symfony/console/Input/Input.php(53): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#4 /home/karem/game-turns/vendor/symfony/console/Command/Command.php(276): Symfony\\Component\\Console\\Input\\Input->bind()
+#5 /home/karem/game-turns/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony\\Component\\Console\\Command\\Command->run()
+#6 /home/karem/game-turns/vendor/symfony/console/Application.php(1110): Illuminate\\Console\\Command->run()
+#7 /home/karem/game-turns/vendor/symfony/console/Application.php(359): Symfony\\Component\\Console\\Application->doRunCommand()
+#8 /home/karem/game-turns/vendor/symfony/console/Application.php(194): Symfony\\Component\\Console\\Application->doRun()
+#9 /home/karem/game-turns/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(197): Symfony\\Component\\Console\\Application->run()
+#10 /home/karem/game-turns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle()
+#11 /home/karem/game-turns/artisan(16): Illuminate\\Foundation\\Application->handleCommand()
+#12 {main}
+"} 
+[2025-10-15 16:20:45] local.ERROR: The "--columns" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"--columns\" option does not exist. at /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php:226)
+[stacktrace]
+#0 /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php(153): Symfony\\Component\\Console\\Input\\ArgvInput->addLongOption()
+#1 /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php(88): Symfony\\Component\\Console\\Input\\ArgvInput->parseLongOption()
+#2 /home/karem/game-turns/vendor/symfony/console/Input/ArgvInput.php(77): Symfony\\Component\\Console\\Input\\ArgvInput->parseToken()
+#3 /home/karem/game-turns/vendor/symfony/console/Input/Input.php(53): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#4 /home/karem/game-turns/vendor/symfony/console/Command/Command.php(276): Symfony\\Component\\Console\\Input\\Input->bind()
+#5 /home/karem/game-turns/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony\\Component\\Console\\Command\\Command->run()
+#6 /home/karem/game-turns/vendor/symfony/console/Application.php(1110): Illuminate\\Console\\Command->run()
+#7 /home/karem/game-turns/vendor/symfony/console/Application.php(359): Symfony\\Component\\Console\\Application->doRunCommand()
+#8 /home/karem/game-turns/vendor/symfony/console/Application.php(194): Symfony\\Component\\Console\\Application->doRun()
+#9 /home/karem/game-turns/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(197): Symfony\\Component\\Console\\Application->run()
+#10 /home/karem/game-turns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle()
+#11 /home/karem/game-turns/artisan(16): Illuminate\\Foundation\\Application->handleCommand()
+#12 {main}
+"} 
