@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Game-Turns
-=======
 # Game Turns Gerneration Endpoint
 
 Laravel API endpoint that generates player turns dynamically with starting from any player.
@@ -25,4 +22,3 @@ GET /api/game-turns?players=3&turns=2&start=A
     ]
   }
 }
->>>>>>> recovery
